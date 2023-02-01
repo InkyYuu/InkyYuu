@@ -1,5 +1,5 @@
 # Hi 👋, let's go present myself !
   
-  ___
+___
 
 Presentation in progress...
