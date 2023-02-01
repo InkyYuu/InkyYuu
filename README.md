@@ -13,10 +13,10 @@
 ###
 
 <ul align="left">
-  <li>⏳ Portfolio in progress</ol><br><br>
+  <li>⏳ <i>Portfolio in progress</i></ol><br><br>
   <li>📚 I'm currently learning <b>JS</b></ol><br><br>
   <li>🎯 My goal is become a <b>Game programmer</b></ol><br><br>
-  <li>❤️ I'm a fan of <u><b>Zelda's games</b></u>. Oups.<:ol>
+  <li>❤️ I'm a fan of <b>Zelda's games</b>. Oups.<:ol>
 </ul>
 <br>
   
