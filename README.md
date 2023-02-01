@@ -14,9 +14,9 @@
 
 <ul align="left">
   <li>⏳ Portfolio in progress</ol><br><br>
-  <li>📚 I'm currently learning ***JS***</ol><br><br>
-  <li>🎯 My goal is become a ***Game programmer***</ol><br><br>
-  <li>❤️ I'm a fan of ***Zelda's games***. Oups.<:ol>
+  <li>📚 I'm currently learning <b>JS</b></ol><br><br>
+  <li>🎯 My goal is become a <b>Game programmer</b></ol><br><br>
+  <li>❤️ I'm a fan of <u><b>Zelda's games</b></u>. Oups.<:ol>
 </ul>
 <br>
   
