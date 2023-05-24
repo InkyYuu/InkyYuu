@@ -13,7 +13,7 @@
 ###
 
 <ul align="left">
-  <li>💼 <a href="http://perso-etudiant.u-pem.fr/~kellian.bredeau/">My Portfolio</a></li><br><br>
+  <li>💼 <a href="https://perso-etudiant.u-pem.fr/~kellian.bredeau/">My Portfolio</a></li><br><br>
   <li>📚 I'm currently learning <b>JS</b></li><br><br>
   <li>🎯 My goal is become a <b>Game programmer</b></li><br><br>
   <li>❤️ I'm a fan of <b>Zelda's games</b>. Oups.</li>
