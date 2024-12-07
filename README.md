@@ -14,7 +14,7 @@
 
 <ul align="left">
   <li>💼 <a href="https://kellian.awooo.fr">My Portfolio</a></li><br><br>
-  <li>📚 I'm currently learning <b>JS</b></li><br><br>
+  <li>📚 I'm currently learning <b>Django</b></li><br><br>
   <li>🎯 My goal is become a <b>Game developper/programmer</b></li><br><br>
   <li>❤️ I'm a fan of <b>Zelda's games</b>. Oups.</li>
 </ul>
