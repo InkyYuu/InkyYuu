@@ -3,7 +3,7 @@
 ###
 
 <p align="center">🇫🇷 | 🇬🇧 • CS Student (BUT Informatique 3rd year) • 20 years • Future Software Engineer (I hope) • Paris Suburbs</p>
-<p align="center">Gaming 🕹️• Programming 💻 • Human Sciences 🔬🧠 • Fan of Dua Lipa, Zara Larsson and London Grammar 🎶</p>
+<p align="center">Gaming 🕹️• Programming 💻 • Biopsychology 🔬🧠 • Fan of Dua Lipa, Zara Larsson and London Grammar 🎶</p>
   
 ###
 
