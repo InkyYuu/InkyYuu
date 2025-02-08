@@ -1,23 +1,9 @@
-<h1 align="center">Hi 👋 Let's go present myself !</h1>
+<h1 align="center">- Kellian Bredeau -</h1>
 
 ###
 
-<p align="center">Hey ! I'm Kellian BREDEAU and I'm a student in Computer Sciences at University Gustave Eiffel, Marne-la-Vallée, Paris Sud-Est.<br>In my profil you will find all my projects that I did during the years</p>
-
-###
-
-<br><br>
-
-<h2 align="left">About me</h2>
-
-###
-
-<ul align="left">
-  <li>📚 I'm currently learning <b>Django</b></li><br><br>
-  <li>🎯 My goal is become a <b>Game developper/programmer</b></li><br><br>
-  <li>❤️ I'm a fan of <b>Zelda's games</b>. Oups.</li>
-</ul>
-<br>
+<p align="center">🇫🇷 | 🇬🇧 • CS Student (BUT Informatique 3rd year) • 20 years • Future Software Engineer (I hope) • Paris Suburbs</p>
+<p align="center">Gaming 🕹️• Programming 💻 • Human Sciences 🔬🧠 • Fan of Dua Lipa, Zara Larsson and London Grammar 🎶</p>
   
 ###
 
@@ -26,8 +12,8 @@
 ###
 
 <div align="left">
-  <a href=mailto:kellianbre@outlook.fr target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/microsoft-outlook/default.svg" width="52" height="40" alt="microsoft-outlook logo"  />
+  <a href=mailto:bredeaukellian@gmail.com target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
   </a>
 </div>
 <br>
